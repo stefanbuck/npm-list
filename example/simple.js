@@ -11,7 +11,6 @@
 var npmList = require('../');
 
 var options = {
-  jsonStreamPath: 'rows.*.doc',
   filter: ['name', 'description']
 };
 
